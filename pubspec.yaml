@@ -1,0 +1,45 @@
+name: application
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.11.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+  flutter_staggered_grid_view: ^0.7.0
+  flutter_svg: ^2.2.3
+  custom_navigation_bar: ^0.8.2
+  flutter_rating_bar: ^4.0.1
+  equatable: ^2.0.8
+  readmore: ^3.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^6.0.0
+
+flutter:
+
+  uses-material-design: true
+
+  # To add assets to your application, add an assets section, like this:
+  assets:
+    - assets/images/
+    - assets/svg/
+
+  # example:
+  fonts:
+    - family: Baloo
+      fonts:
+        - asset: assets/fonts/Baloo2-Regular.ttf
+        - asset: assets/fonts/Baloo2-Medium.ttf
+        - asset: assets/fonts/Baloo2-SemiBold.ttf
+        - asset: assets/fonts/Baloo2-Bold.ttf
+        - asset: assets/fonts/Baloo2-ExtraBold.ttf
