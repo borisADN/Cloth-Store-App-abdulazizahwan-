@@ -16,5 +16,3 @@ Our Work.
 Demo
 
 https://github.com/user-attachments/assets/a09f09d6-dfcd-49c3-b7c5-45f872cba892
-
-<video controls src="./preview/demo.mp4" title="Title"></video>
