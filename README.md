@@ -13,5 +13,4 @@ Our Work.
 
 Demo
 
-![Demo](assets/preview/demo.gif)
-
+(https://raw.githubusercontent.com/borisADN/Cloth-Store-App-abdulazizahwan-/main/assets/preview/demo.mp4)
