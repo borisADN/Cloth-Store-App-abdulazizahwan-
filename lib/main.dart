@@ -28,5 +28,3 @@ class _MyAppState extends State<MyApp> {
     );
   }
 }
-
-// https://www.behance.net/gallery/182627679/Ecommerce-Mobile-App-Design
